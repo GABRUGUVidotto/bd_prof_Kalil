@@ -1,0 +1,7 @@
+CREATE DATABASE nomes;
+use nomes;
+
+CREATE TABLE nome( 
+id INT AUTO_INCREMENT PRIMARY KEY,
+nome varchar(100) 
+);
